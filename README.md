@@ -1,23 +1,30 @@
-<h1 align="center">Olá 👋, sou Hugo Mota</h1>
-<h3 align="center">Um desenvolvedor frontend apaixonado da Índia</h3>
+<h1 align="left">Olá 👋 , sou Hugo Mota</h1>
 
-<p align="left"> <img src= "https://komarev.com/ghpvc/?username=hugomotadev&label=Profile%20views&color=0e75b6&style=flat" alt="hugomotadev" /> </p>
+###
 
-<p align="left"> <a href="https: //github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hugomotadev" alt="hugomotadev" /></ a> </p>
+<h2 align="left">Sobre mim:</h2>
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-</p>
+###
 
-<h3 align="left">Idiomas e ferramentas:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent. com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https:// www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark .svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" alvo ="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40 " height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw. githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https:// mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40 " height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent .com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www .sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" altura ="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/ logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="left">✨ Técnico em Informática em transição de carreira;<br>📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá e formação em Python peloa SENAC/PE<br>🎯 Objetivos: Atuar como desenvolvedor web com Python e afins; Difundir o que aprendi;<br>🎲 Curiosidade: Tenho uma "queda" pela linguagem de marcação HTML e estilização CSS.</p>
 
-<p><img align="left" src="https: //github-readme-stats.vercel.app/api/top-langs?username=hugomotadev&show_icons=true&locale=en&layout=compact" alt="hugomotadev" /></p>
+###
 
-<p> <img align="center " src="https://github-readme-stats.vercel.app/api?username=hugomotadev&show_icons=true&locale=en" alt="hugomotadev" /></p>
+<h2 align="left">Aprendendo a codificar com:</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hugomotadev&" alt="hugomotadev" /></p>
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
 
 <!---
 hugomotadev/hugomotadev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
