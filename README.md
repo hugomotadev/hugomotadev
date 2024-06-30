@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Técnico em Informática em transição de carreira;<br>📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá e formação em Python peloa SENAC/PE<br>🎯 Objetivos: Atuar como desenvolvedor web com Python e afins; Difundir o que aprendi;<br>🎲 Curiosidade: Tenho uma "queda" pela linguagem de marcação HTML e estilização CSS.</p>
+<p align="left">✨ Técnico em Informática em transição de carreira;<br>📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas e realizei um curso de formação em Python pelo SENAC/PE;<br>🎯 Objetivos: Atuar como desenvolvedor web e afins;<br>🎲 Curiosidade: Tenho uma "queda" por assuntos sobre usabilidade. Pretendo criar sites simples o suficiente para qualquer um entender</p>
 
 ###
 
@@ -15,13 +15,12 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 
 ###
